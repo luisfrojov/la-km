@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 [Serializable]
-public class DialogoNodo
+public class Dialogo_nd
 {
     public bool Jugador;
   
